@@ -1,8 +1,17 @@
-# React + Vite
+# Fast Pizza
+this is fake pizza order, there is an imaginary restaurant called Fast Pizza, they have a delivery department, they all take the order from this website
+and prepare the required pizzas.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Here you can do the following:
+- a collection of pizzas you can order
+- you can order as many pizzas as you want
+- a cart feature
+- you can mark the order as priority by 20% of the order cost
+- search your orders by order ID
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Built With:
+- React
+- React Router
+- Redux Toolkit
+- Tailwind CSS
+- HTML
