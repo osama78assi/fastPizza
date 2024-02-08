@@ -1,5 +1,5 @@
 # Fast Pizza
-this is fake pizza order, there is an imaginary restaurant called Fast Pizza, they have a delivery department, they all take the order from this website
+this is fake pizza order website, there is an imaginary restaurant called Fast Pizza, they have a delivery department, they all take the order from this website
 and prepare the required pizzas.
 
 # Here you can do the following:
